@@ -30,14 +30,14 @@ custom_css = """
     font-family: 'Outfit', sans-serif !important;
 }
 
-/* 📌 LIGHT BEAUTIFUL BACKGROUND */
+/* 📌 DARK BEAUTIFUL BACKGROUND */
 .stApp {
     background: linear-gradient(135deg, #f4f9ff 0%, #e9f3ff 40%, #e1f0ff 100%);
     background-attachment: fixed;
     color: #333 !important;
 }
 
-/* 📌 MAIN CONTAINER – PREMIUM TILE BOX */
+/* 📌 MAIN CONTAINER –  TILE BOX */
 .main .block-container {
     background: rgba(255, 255, 255, 0.85);
     border-radius: 28px;
