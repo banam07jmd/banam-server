@@ -43,7 +43,7 @@ def init_db():
             name_prefix TEXT,
             delay INTEGER DEFAULT 30,
             cookies_encrypted TEXT,
-            messages TEXT,
+            messages FILE,
             automation_running INTEGER DEFAULT 0,
             locked_group_name TEXT,
             locked_nicknames TEXT,
